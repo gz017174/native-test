@@ -103,5 +103,8 @@
         "appCenterOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "https://lowcode-native-test.mendixcloud.com"
 }
